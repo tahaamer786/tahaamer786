@@ -14,7 +14,7 @@ I build LLM-powered products, RAG pipelines, multi-agent systems, and AI voice a
 
 I'm an Applied AI Engineer with 2+ years of experience in backend engineering and Agentic AI. I connect LLM reasoning to real-time backend systems, and my work spans production healthcare platforms, AI voice agents, RAG chatbots, and internal automation tools.
 
-My focus is on clear architecture, reliable AI pipelines, and features that ship to real users. I work remotely with teams in the US and UAE, and I'm currently pursuing a PGD in Data Science with AI at NED University of Engineering and Technology.
+My focus is on clear architecture, reliable AI pipelines, and features that ship to real users. I work remotely with teams in the US and UAE, and I'm also an AI researcher at heart. I follow the fast-moving world of AI, ML, LLMs, multimodal models, and agentic systems every day, and I turn what I learn into working products.
 
 ---
 
